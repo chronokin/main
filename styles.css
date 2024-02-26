@@ -9,6 +9,12 @@ body {
   /* No specific styles for desktop; the content will display in its default state */
 }
 
+/* Ensures images are not stretched and maintain their aspect ratios */
+img {
+  max-width: 100%; /* Ensures images are not wider than their container */
+  height: auto; /* Scales the height automatically to maintain aspect ratio */
+}
+
 /* Media query for mobile devices */
 @media (max-width: 866px) {
   body {
