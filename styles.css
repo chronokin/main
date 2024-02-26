@@ -1,28 +1,25 @@
-/* Base styles for the body to remove default margins and padding */
+/* Base styles for your website */
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
 }
 
-/* Main content container styles */
 .container {
-  max-width: 1000px; /* Maximum width of the content */
-  margin: 0 auto; /* Centers the container within the viewport */
-  text-align: center; /* Centers the text within the container */
-  width: 100%; /* Ensures the container takes up full width up to 1000px */
+  /* No specific styles for desktop; the content will display in its default state */
 }
 
-/* Ensures images within the container maintain their aspect ratios */
-.container img {
-  max-width: 100%; /* Maximum width is 100% of the containing element */
-  height: 100%; /* Height is set to auto to maintain aspect ratio */
-}
+/* Media query for mobile devices */
+@media (max-width: 866px) {
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
 
-/* Media query for devices with a screen width of 1000px or less */
-@media (max-width: 1000px) {
   .container {
-    /* Additional adjustments for smaller screens, if necessary */
-    padding: 0 20px; /* Adds some padding on smaller screens for better readability */
+    width: 90%; /* Width on mobile */
+    margin: auto; /* Center the container on mobile */
   }
 }
