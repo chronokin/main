@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Homepage</title>
+    <style>
+        /* CSS for mobile devices */
+        @media (max-width: 768px) {
+            .table-container {
+                display: block;
+                width: 100%;
+                overflow-x: auto; /* Adds horizontal scroll for tables wider than the screen */
+            }
+            .table-container table {
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+    </style>
+  </head>
+  <body style="background-color: #0c0c0c;">
+    <table style="width: 1738px; height: 1px; background-color: #0c0c0c;" border="1">
+      <tbody>
+        <tr>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+        </tr>
+      </tbody>
+    </table>
+    <span style="color: #111111;"><br>
+    </span>
+    <table style="width: 1707px; background-color: #0c0c0c;" border="0">
+      <tbody>
+        <tr>
+          <td style="width: 14.7333px; background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c; height: 362.5px; text-align: center;"><span
+
+              style="color: #111111;"><img src="website_logo.png"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+        </tr>
+        <tr>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c; width: 1025px; height: 76px;"><span
+
+              style="color: #111111;"></span>
+            <table style="width: 1025px; height: 83px;" border="0">
+              <tbody>
+                <tr>
+                  <td style="text-align: center; width: 507.067px;"><a href="https://chronokin.github.io/main/About.html"
+
+                      target="_top"><img src="about_chronokin_text.png"></a></td>
+                  <td style="width: 501.933px; text-align: center;"><a href="Contributors.html"
+
+                      target="_top"><img src="contributor_text.png"></a></td>
+                </tr>
+              </tbody>
+            </table>
+            <span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c; width: 294.317px;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+        </tr>
+        <tr>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c; width: 326.95px;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c; height: 261px;">
+            <table style="width: 1025px; height: 207px;" border="0">
+              <tbody>
+                <tr>
+                  <td style="width: 154px; text-align: center;"><span style="color: #111111;"><a
+
+                        href="https://www.twitch.tv/chronokintv" target="_top"><img
+
+                          src="twitch.png" style="width: 119px; height: 122px;"></a><br>
+                    </span></td>
+                  <td style="width: 156.95px; text-align: center;"><a href="https://discord.gg/4QTYtADFDv"
+
+                      target="_blank"><span style="color: #111111;"><img src="discord.png"
+
+                          style="width: 127px; height: 130px;"></span></a></td>
+                  <td style="width: 156.217px; text-align: center;"><a href="https://www.youtube.com/channel/UC56dD_T9eAnXp7hOVouvSzg"
+
+                      target="_top"><span style="color: #111111;"><img src="youtube.png"
+
+                          style="width: 129px; height: 132px;"></span></a></td>
+                  <td style="width: 163.217px; text-align: center;"><a href="https://www.patreon.com/Chronokin"
+
+                      target="_top"><span style="color: #111111;"><img src="patreon.png"
+
+                          style="width: 134px; height: 137px;"></span></a></td>
+                  <td style="width: 150.2px; text-align: center;"><a href="https://www.instagram.com/chronokinofficial"
+
+                      target="_top"><span style="color: #111111;"><img src="ig.png"
+
+                          style="width: 132px; height: 135px;"></span></a></td>
+                  <td style="width: 105.617px; text-align: center;"><span style="color: #111111;"><a
+
+                        href="https://www.tiktok.com/@chronokin" target="_top"><img
+
+                          src="tiktok.png" style="width: 124px; height: 127px;"></a></span></td>
+                  <td style="width: 74.417px; text-align: center;"><a href="https://twitter.com/chronokintv"
+
+                      target="_top"><img src="twitter.png" style="width: 113px; height: 115px;"></a><br>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+          <td style="background-color: #0c0c0c;"><span style="color: #111111;"><br>
+            </span></td>
+        </tr>
+        <tr>
+          <td><span style="color: #111111;"><br>
+            </span></td>
+          <td><span style="color: #111111;"><br>
+            </span></td>
+          <td><span style="color: #111111;"><br>
+            </span></td>
+          <td><span style="color: #111111;"><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              &lt;a href="https://www.flaticon.com/free-icons/instagram-logo"
+              title="instagram logo icons"&gt;Instagram logo icons created by
+              Freepik - Flaticon&lt;/a&gt;<br>
+              <br>
+              &lt;a href="https://www.flaticon.com/free-icons/facebook"
+              title="facebook icons"&gt;Facebook icons created by Freepik -
+              Flaticon&lt;/a&gt;<br>
+              <br>
+              &lt;a href="https://www.flaticon.com/free-icons/youtube"
+              title="youtube icons"&gt;Youtube icons created by Freepik -
+              Flaticon&lt;/a&gt;<br>
+              <br>
+              &lt;a href="https://www.flaticon.com/free-icons/tik-tok"
+              title="tik tok icons"&gt;Tik tok icons created by Freepik -
+              Flaticon&lt;/a&gt;<br>
+              <br>
+              &lt;a href="https://www.flaticon.com/free-icons/patreon"
+              title="patreon icons"&gt;Patreon icons created by Pixel perfect -
+              Flaticon&lt;/a&gt;<br>
+              <br>
+              &lt;a href="https://www.flaticon.com/free-icons/discord"
+              title="discord icons"&gt;Discord icons created by Freepik -
+              Flaticon&lt;/a&gt;<br>
+              <br>
+              &lt;a href="https://www.flaticon.com/free-icons/twitter"
+              title="twitter icons"&gt;Twitter icons created by Dave Gandy -
+              Flaticon&lt;/a&gt;<br>
+              <br>
+              &lt;a href="https://www.flaticon.com/free-icons/twitch"
+              title="twitch icons"&gt;Twitch icons created by Pixel perfect -
+              Flaticon&lt;/a&gt;</span></td>
+          <td><span style="color: #111111;"><br>
+            </span></td>
+          <td><span style="color: #111111;"><br>
+            </span></td>
+          <td><span style="color: #111111;"><br>
+            </span></td>
+        </tr>
+      </tbody>
+    </table>
+    <span style="color: #111111;"><br>
+    </span>
+  </body>
+</html>
