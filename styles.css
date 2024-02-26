@@ -13,6 +13,12 @@ body {
   width: 100%; /* Ensures the container takes up full width up to 1000px */
 }
 
+/* Ensures images within the container maintain their aspect ratios */
+.container img {
+  max-width: 100%; /* Maximum width is 100% of the containing element */
+  height: auto; /* Height is set to auto to maintain aspect ratio */
+}
+
 /* Media query for devices with a screen width of 1000px or less */
 @media (max-width: 1000px) {
   .container {
