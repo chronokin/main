@@ -1,0 +1,21 @@
+/* Base styles for your website */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 866px) {
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+  .container {
+    width: 90%; /* Width on mobile */
+    margin: auto; /* Center the container on mobile */
+  }
+}
