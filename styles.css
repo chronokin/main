@@ -16,7 +16,7 @@ body {
 /* Ensures images within the container maintain their aspect ratios */
 .container img {
   max-width: 100%; /* Maximum width is 100% of the containing element */
-  height: auto; /* Height is set to auto to maintain aspect ratio */
+  height: 100%; /* Height is set to auto to maintain aspect ratio */
 }
 
 /* Media query for devices with a screen width of 1000px or less */
